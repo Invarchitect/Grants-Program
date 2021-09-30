@@ -20,8 +20,7 @@ helping to catalyze future innovations, it's a belief that motivates and inspire
 
 ### Project Details
 
-* [InvArch Whitepaper](https://invarch.io/invarch-whitepaper/)
-* [InvArch Litepaper](https://invarch.io/invarch-litepaper/)
+* [InvArch Whitepaper](https://invarch.io/wp-content/uploads/2021/09/InvArch-Whitepaper.pdf)
 * [InvArch Pitch Deck](bit.ly/invarch_deck)
 
 <div align=center>
@@ -135,7 +134,6 @@ people have never had the chance to contribute their skills towards something re
 
 * [Dakota Barnett](https://www.linkedin.com/in/dakotasb97), Founder
 * [Gabriel Facco de Arruda](https://github.com/arrudagates), Sr. Rust Dev
-* [Danny Salman](https://github.com/DannyS03), Substrate Dev
 * [Kresna Sucandra](https://github.com/SHA888), Substrate Dev
 * [Mindaugas Savickas](https://www.linkedin.com/in/savickas), Head of Marketing
 * [Brunk Škvorc](https://www.linkedin.com/in/swader), Technical Advisor
@@ -149,7 +147,10 @@ people have never had the chance to contribute their skills towards something re
 
 ### Legal Structure
 
-Information Pending. To be transparent, the legal structure has not yet been formed.
+The InvArch Association
+Baarerstrasse 86
+6300 Zug
+Switzerland
 
 ### Team's experience
 
@@ -162,8 +163,6 @@ learning, task automation, and website development. 💡
 Web3 ecosystem. Gabriel is a a dedicated programmer and DeFi ninja who loves cutting edge technology and all things Substrate/Rust. He is committed to building
 applications that help promote a more decentralized global economy, and comes with past experience developing and scaling such applications. He brings direct 
 experience developing applications for the Substrate ecosystem and as a Polkadot ecosystem contributor dedicated to building the future. 🧠
-
-* [Danny Salman](https://github.com/DannyS03) comes with 3 years of solid experience as a developer, utilizing languages like C, JavaScript, TypeScript, and Rust. Danny is also an educator at the Web3 Foundation. Danny is a blockchain enthusiast and educator with a background in computer engineering, who has a keen interest in blockchain infrastructure and interoperability, DeFi and NFTs. He leverages past experience in DevOps management and brings first-hand insights and experience as a software developer, Web3 educator and researcher. Danny is a Polkadot ecosystem contributor committed to a decentralized web. 🌐
 
 * [Kresna Sucandra](https://github.com/SHA888) is a dedicated programmer and Parity/Substrate enthusiast. Kusandra has been dedicated for the past year learning everything there is to know about the Web3 ecosystem. Kresna is a medical doctor turned programmer with a background in Substrate blockchain development focusing on multi-chain interoperability, DeFi, NFTs, and the Metaverse. He brings first-hand insights and experience as a former blockchain startup co-founder and developer with a history focusing on JavaScript and Rust programming. Kresna is a Polkadot ecosystem contributor who loves entrepreneurship. 🚀
 
@@ -186,14 +185,12 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 * [Dakota Barnett](https://github.com/Invarchitect), Founder
 * [Gabriel Facco de Arruda](https://github.com/arrudagates), Sr. Rust Dev
-* [Danny Salman](https://github.com/DannyS03), Substrate Dev
 * [Kresna Sucandra](https://github.com/SHA888), Substrate Dev
 
 ### Team LinkedIn Profiles (if available)
 
 * [Dakota Barnett](https://www.linkedin.com/in/dakotasb97), Founder
 * [Gabriel Facco de Arruda](https://www.linkedin.com/in/gabriel-facco-de-arruda-00880787), Sr. Rust Dev
-* [Danny Salman](https://www.linkedin.com/in/dannysalman), Substrate Dev
 * [Kresna Sucandra](https://www.linkedin.com/in/kresna-sucandra/), Substrate Dev
 * [Mindaugas Savickas](https://www.linkedin.com/in/savickas), Head of Marketing
 * [Brunk Škvorc](https://www.linkedin.com/in/swader), Technical Advisor
@@ -202,10 +199,8 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 ## Development Status :open_book:
 
 * Early-stage, node setup and Ink! smart contracts have begun being designed. (Please see our [GitHub](https://github.com/InvArch))
-* [InvArch Whitepaper](https://invarch.io/invarch-whitepaper/)
-* [InvArch Litepaper](https://invarch.io/invarch-litepaper/)
+* [InvArch Whitepaper](https://invarch.io/wp-content/uploads/2021/09/InvArch-Whitepaper.pdf)
 * [InvArch Pitch Deck](bit.ly/invarch_deck)
-* [Publish0x](https://www.publish0x.com/blockchain-economy)
 * Conversations regarding the arhitecture design of InvArch as well as the development path forwards have been held with former Web3 Educator [Brunk Škvorc](https://www.linkedin.com/in/swader), who has joined InvArch as the project's Technical Advisor.
 
 ## Development Roadmap :nut_and_bolt:
